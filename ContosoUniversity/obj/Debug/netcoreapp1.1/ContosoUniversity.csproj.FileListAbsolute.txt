@@ -1,9 +1,8 @@
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.deps.json
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.json
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.dev.json
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.dll
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.pdb
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
-c:\users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb
-C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.deps.json
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.json
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.dll
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.pdb
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb

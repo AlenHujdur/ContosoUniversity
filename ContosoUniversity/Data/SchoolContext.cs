@@ -30,5 +30,12 @@ namespace ContosoUniversity.Data
             modelBuilder.Entity<CourseAssignment>()
                 .HasKey(c => new { c.CourseID, c.InstructorID });
         }
+
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Entity<Blog>()
+        //        .Property(b => b.Url)
+        //        .IsRequired();
+        //}
     }
 }

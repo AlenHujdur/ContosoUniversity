@@ -83,21 +83,21 @@ namespace ContosoUniversity.Data
                 var students = new Student[]
                 {
                     new Student { FirstName = "Carson",   LastName = "Alexander",
-                        EnrollmentDate = DateTime.Parse("2010-09-01") },
+                        EnrollmentDate = DateTime.Parse("01.09.2010") },
                     new Student { FirstName = "Meredith", LastName = "Alonso",
-                        EnrollmentDate = DateTime.Parse("2012-09-01") },
+                        EnrollmentDate = DateTime.Parse("01.09.2012") },
                     new Student { FirstName = "Arturo",   LastName = "Anand",
-                        EnrollmentDate = DateTime.Parse("2013-09-01") },
+                        EnrollmentDate = DateTime.Parse("01.09.2013") },
                     new Student { FirstName = "Gytis",    LastName = "Barzdukas",
-                        EnrollmentDate = DateTime.Parse("2012-09-01") },
+                        EnrollmentDate = DateTime.Parse("01.09.2012") },
                     new Student { FirstName = "Yan",      LastName = "Li",
-                        EnrollmentDate = DateTime.Parse("2012-09-01") },
+                        EnrollmentDate = DateTime.Parse("01.09.2012") },
                     new Student { FirstName = "Peggy",    LastName = "Justice",
-                        EnrollmentDate = DateTime.Parse("2011-09-01") },
+                        EnrollmentDate = DateTime.Parse("01.09.2011") },
                     new Student { FirstName = "Laura",    LastName = "Norman",
-                        EnrollmentDate = DateTime.Parse("2013-09-01") },
+                        EnrollmentDate = DateTime.Parse("01.09.2013") },
                     new Student { FirstName = "Nino",     LastName = "Olivetto",
-                        EnrollmentDate = DateTime.Parse("2005-09-01") }
+                        EnrollmentDate = DateTime.Parse("01.09.2005") }
                 };
 
                 foreach (Student s in students)
@@ -109,15 +109,15 @@ namespace ContosoUniversity.Data
                 var instructors = new Instructor[]
                 {
                     new Instructor { FirstMidName = "Kim",     LastName = "Abercrombie",
-                        HireDate = DateTime.Parse("1995-03-11") },
+                        HireDate = DateTime.Parse("11.03.1995") },
                     new Instructor { FirstMidName = "Fadi",    LastName = "Fakhouri",
-                        HireDate = DateTime.Parse("2002-07-06") },
+                        HireDate = DateTime.Parse("06.07.2002") },
                     new Instructor { FirstMidName = "Roger",   LastName = "Harui",
-                        HireDate = DateTime.Parse("1998-07-01") },
+                        HireDate = DateTime.Parse("01.07.1998") },
                     new Instructor { FirstMidName = "Candace", LastName = "Kapoor",
-                        HireDate = DateTime.Parse("2001-01-15") },
+                        HireDate = DateTime.Parse("15.01.2001") },
                     new Instructor { FirstMidName = "Roger",   LastName = "Zheng",
-                        HireDate = DateTime.Parse("2004-02-12") }
+                        HireDate = DateTime.Parse("12.02.2004") }
                 };
 
                 foreach (Instructor i in instructors)
@@ -129,16 +129,16 @@ namespace ContosoUniversity.Data
                 var departments = new Department[]
                 {
                     new Department { Name = "English",     Budget = 350000,
-                        StartDate = DateTime.Parse("2007-09-01"),
+                        StartDate = DateTime.Parse("01.09.2007"),
                         InstructorID  = instructors.Single( i => i.LastName == "Abercrombie").ID },
                     new Department { Name = "Mathematics", Budget = 100000,
-                        StartDate = DateTime.Parse("2007-09-01"),
+                        StartDate = DateTime.Parse("01.09.2007"),
                         InstructorID  = instructors.Single( i => i.LastName == "Fakhouri").ID },
                     new Department { Name = "Engineering", Budget = 350000,
-                        StartDate = DateTime.Parse("2007-09-01"),
+                        StartDate = DateTime.Parse("01.09.2007"),
                         InstructorID  = instructors.Single( i => i.LastName == "Harui").ID },
                     new Department { Name = "Economics",   Budget = 100000,
-                        StartDate = DateTime.Parse("2007-09-01"),
+                        StartDate = DateTime.Parse("01.09.2007"),
                         InstructorID  = instructors.Single( i => i.LastName == "Kapoor").ID }
                 };
 
