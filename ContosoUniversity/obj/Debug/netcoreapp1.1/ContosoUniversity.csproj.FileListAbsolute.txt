@@ -6,3 +6,4 @@ C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUn
 C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
 C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
 C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb
+C:\Users\alenh\documents\visual studio 2017\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.csprojResolveAssemblyReference.cache
